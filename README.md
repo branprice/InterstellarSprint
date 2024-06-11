@@ -1,4 +1,4 @@
-# web-game
+# Interstellar Sprint
 CMSC 447 Web Game autorunner like project
 
 To begin you need to initialialize and run the database server
@@ -23,3 +23,13 @@ ensure rex plugins are installed
 
 npm install phaser
 npm i phaser3-rex-plugins
+
+# Photos from game
+![image](https://github.com/branprice/InterstellarSprint/assets/138709833/fb3f1c5a-ac27-44a6-ab3b-85d8aabf33ab)
+![image](https://github.com/branprice/InterstellarSprint/assets/138709833/3e8b84be-c8a6-460f-b6a2-faff6fdf5bf9)
+![image](https://github.com/branprice/InterstellarSprint/assets/138709833/1ea8c8db-c595-4017-8cb0-c4fde728194e)
+![image](https://github.com/branprice/InterstellarSprint/assets/138709833/fec52fa1-bb39-4f6c-b50d-3f260a101d9c)
+
+
+
+
